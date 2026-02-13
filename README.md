@@ -57,3 +57,5 @@ Système de classification d’images médicales basé sur des réseaux de neuro
 
 Email : ayyoubaitmansour@gmail.com  
 GitHub : https://github.com/ayyoub4321
+linkedin: https://www.linkedin.com/in/ayyoub-ait-mansour-40a603319
+telephone:0613697564
