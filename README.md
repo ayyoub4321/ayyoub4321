@@ -1,53 +1,59 @@
 # Ayyoub Ait Mansour
 
-Data Science & Artificial Intelligence Engineer  
-Master’s Student in Data Science & Artificial Intelligence  
-Meknès, Morocco  
+Ingénieur en Data Science & Intelligence Artificielle  
+Étudiant en Master Sciences des Données et Intelligence Artificielle  
+Meknès, Maroc  
 
-## Profile
+## Profil
 
-Master’s student specialized in Data Science and Artificial Intelligence with strong expertise in Natural Language Processing, Deep Learning, and Machine Learning.  
-Experienced in designing end-to-end AI systems, from data preprocessing and feature engineering to model development and evaluation.  
-Focused on building scalable and interpretable intelligent solutions for real-world applications.
+Étudiant en Master spécialisé en Data Science et Intelligence Artificielle, avec une expertise solide en traitement automatique du langage naturel, deep learning et modélisation prédictive.  
+Expérience dans la conception de systèmes d’intelligence artificielle de bout en bout : collecte et préparation des données, ingénierie des caractéristiques, développement de modèles, évaluation et optimisation des performances.  
 
-## Core Areas of Expertise
+Orienté vers la résolution de problématiques réelles à travers des architectures avancées et des approches robustes.
 
-- Natural Language Processing (NLP)
-- Deep Learning Architectures
-- Machine Learning & Predictive Modeling
-- Computer Vision
-- Statistical Modeling
+## Domaines d’Expertise
 
-## Technical Stack
+- Traitement Automatique du Langage Naturel (NLP)
+- Deep Learning et Architectures Neuronales Avancées
+- Machine Learning et Modélisation Statistique
+- Vision par Ordinateur
+- Analyse et Exploration de Données
 
-Programming: Python, Java  
-Machine Learning: Scikit-learn, SVM, Regression, Classification  
-Deep Learning: TensorFlow, Keras, CNN, BiLSTM, BiGRU, Attention Mechanisms  
-NLP: BERT, Transformers, NLTK, spaCy  
-Computer Vision: OpenCV  
-Tools: Git, GitHub, Jupyter Notebook, Google Colab  
+## Compétences Techniques
 
-## Selected Projects
+Programmation : Python, Java  
 
-### Fake News Detection using BiGRU with Attention
-Development of a deep learning architecture for misinformation detection using bidirectional recurrent networks and attention mechanisms.  
-Focused on improving classification performance and interpretability.
+Machine Learning : Scikit-learn, SVM, Régression, Classification, Validation croisée  
 
-### BERT-Based Sentiment Analysis
-Hybrid deep learning architecture combining contextual embeddings with neural networks for sentiment classification on social media datasets.
+Deep Learning : TensorFlow, Keras, CNN, BiLSTM, BiGRU, Mécanismes d’Attention  
 
-### Pneumonia Detection using Convolutional Neural Networks
-Medical image classification system for automatic detection of pneumonia from chest X-ray images using CNN-based models and data augmentation techniques.
+NLP : BERT, Transformers, NLTK, spaCy, Vectorisation, Embeddings  
 
-## Research Interests
+Vision par Ordinateur : OpenCV  
 
-- Advanced NLP architectures
-- Attention-based models
-- Hybrid deep learning systems
-- Applied AI in healthcare
-- Model optimization and generalization
+Outils : Git, GitHub, Jupyter Notebook, Google Colab  
+
+## Projets Sélectionnés
+
+### Détection de Fake News par BiGRU avec Mécanisme d’Attention
+Conception d’une architecture deep learning bidirectionnelle intégrant un mécanisme d’attention pour la classification automatique d’articles d’actualité.  
+Optimisation des performances sur jeux de données textuels de grande taille et amélioration de l’interprétabilité du modèle.
+
+### Analyse de Sentiment basée sur BERT
+Développement d’une architecture hybride combinant embeddings contextuels BERT et réseaux neuronaux profonds pour la classification de sentiments issus de médias sociaux.
+
+### Détection de Pneumonie par Réseaux Convolutifs
+Système de classification d’images médicales basé sur des réseaux de neurones convolutifs pour la détection automatique de pneumonie à partir de radiographies pulmonaires.
+
+## Centres d’Intérêt Scientifiques
+
+- Architectures hybrides en deep learning
+- Modèles à mécanismes d’attention
+- Applications de l’IA en santé
+- Optimisation et généralisation des modèles
+- Systèmes intelligents explicables
 
 ## Contact
 
-Email: ayyoubaitmansour@gmail.com  
-GitHub: https://github.com/ayyoub4321
+Email : ayyoubaitmansour@gmail.com  
+GitHub : https://github.com/ayyoub4321
